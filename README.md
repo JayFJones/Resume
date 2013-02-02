@@ -12,7 +12,7 @@ Resume to Markdown and PDF
 
 I run the latex file through pandoc to generate a markdown version which is concatenated with this header to generate the Github README.md file you are seeing now.
 
-To generate this README.md I use pandoc (http://johnmacfarlane.net/pandoc/).
+To generate this README.md I use pandoc (http://johnmacfarlane.net/pandoc/).  The results are not as clean as I would like them to be, but the information is easy to understand.
 
 ```
     pandoc --read=latex --write=markdown resume.tex > /tmp/README.md
