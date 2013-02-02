@@ -95,9 +95,8 @@ Lexington Medical Center
     datasette, transcribed lecture notes from my fathers nursing
     classes.
 
-COMPUTER\
-SKILLS
-=========
+COMPUTER SKILLS
+===============
 
 *Languages & Software:*
 
@@ -116,9 +115,8 @@ North Carolina State University, 1996\
 Vice-President, Eta Kappa Nu, 1995\
 President, Eta Kappa Nu, 1996\
 
-EXTRA-CURRICULAR\
-ACTIVITIES
-=================
+EXTRA-CURRICULAR ACTIVITIES
+===========================
 
 I am a 4th KYU (White) Belt Aikido (Aikido student).\
 Board and Video Game Geek.\
