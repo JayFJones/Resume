@@ -81,20 +81,6 @@ DMS-10
 
 -   Y2K bug fix.
 
-*Conscripted child labor for "Medical Parents"*
-
-1981 - 1986\
-Lexington Medical Center
-
--   Worked as "administrative assistant" for my father.
-
--   Made it through too many Spaghetti dinners while my parents
-    discussed that days "interesting" medical cases.
-
--   Using C=64 computer, Quick Brown Fox cartridge, and a tape
-    datasette, transcribed lecture notes from my fathers nursing
-    classes.
-
 COMPUTER SKILLS
 ===============
 
