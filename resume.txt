@@ -24,7 +24,7 @@ C4/E6000 CMTS CLI Team
 
 -   Introduced TDD and automated developer test rig using Perl and Ruby.
 
--   Replaced inefficient and aging costly tool-set using Java on
+-   Replaced inefficient and aging costly tool-set using Java and
     Netbeans.
 
 -   Worked on fault tolerant and system redundancy using Rhapsody.
