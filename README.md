@@ -47,7 +47,7 @@ Arris Incorporated, Lisle, Il and Suwanee, GA\
 C4/E6000 CMTS CLI Team
 
 -   Design and implementation of Cisco compatible command line interface
-    in C++ on VxWorks.
+    in C++ on VxWorks and OSE.
 
 -   Implementation of DOCSIS Device Classes feature.
 
@@ -56,7 +56,11 @@ C4/E6000 CMTS CLI Team
 -   Replaced inefficient and aging costly tool-set using Java and
     Netbeans.
 
--   Worked on fault tolerant and system redundancy using Rhapsody.
+-   Worked on fault tolerant and system redundancy using IBM’s Rhapsody
+    UML tool.
+
+-   Introduced MediaWiki system which is now widely deployed throughout
+    the company.
 
 *Senior Engineer/Team Lead*
 
@@ -67,7 +71,13 @@ Signaling Service Group SS7
 -   Assisted in design and implementation of fault handling and system
     fail-over for Nortel’s Signaling System 7 product line.
 
--   Introduced "Double Choco Latte" for bug tracking.
+-   Awarded a "Star Award" for the "Most software hooks ever seen east
+    of the Mississippi". (The humorous award is tied to a "refactoring
+    nightmare for the good of the product" story.)
+
+-   Introduced "Double Choco Latte" for bug tracking. This required
+    forking the product and learning enough PHP to customize the tool
+    for our issue tracking process.
 
 -   ISO 9001 training and documentation team member.
 
@@ -79,16 +89,17 @@ DMS-10
 
 -   Designed and implemented ISDN display protocol using SL-1.
 
--   Y2K bug fix.
+-   Y2K bug fixes.
 
 COMPUTER SKILLS
 ===============
 
 *Languages & Software:*
 
-C/C++, Perl, Java, Ruby, Clearcase, Git, GNU, Netbeans, Vim\
+C/C++, Perl, Java, Ruby, Clearcase, Git, GNU, Netbeans, PHP, Vim\
 *Operating Systems:* Windows, Mac OS X, Unix, VxWorks\
-*Protocols:* DHCP, TCP/UDP, DOCSIS 2.0, DOCSIS 3.0
+ *Protocols:* DHCP, DOCSIS 2.0, DOCSIS 3.0, FTP, HTTP, SNMP, SSH,
+TCP/UDP, Telnet, TFTP
 
 EDUCATION
 =========
@@ -101,10 +112,3 @@ North Carolina State University, 1996\
 Vice-President, Eta Kappa Nu, 1995\
 President, Eta Kappa Nu, 1996\
 
-EXTRA-CURRICULAR ACTIVITIES
-===========================
-
-I am a 4th KYU (White) Belt Aikido (Aikido student).\
-Board and Video Game Geek.\
-Reading "Hacker News" and investigating different software
-development/test paradigm.

@@ -1,6 +1,6 @@
 % LaTeX resume using res.cls
 \documentclass[line,margin]{res} 
-\usepackage{helvetica} % uses helvetica postscript font (download helvetica.sty)
+%\usepackage{helvetica} % uses helvetica postscript font (download helvetica.sty)
 %\usepackage{newcent}   % uses new century schoolbook postscript font 
                 
 % \sl will be bold italic in New Century Schoolbook (or
@@ -29,17 +29,13 @@
                 Arris Incorporated, Lisle, Il and Suwanee, GA \\
                 C4/E6000 CMTS CLI Team
                  \begin{itemize}  \itemsep -2pt % reduce space between items
-                 % Conisder listing OSE too
-                 \item Design and implementation of Cisco compatible command line interface in C++ on VxWorks.
+                 \item Design and implementation of Cisco compatible command line interface in C++ on VxWorks and OSE.
                  \item Implementation of DOCSIS Device Classes feature.
                  \item Introduced TDD and automated developer test rig using Perl and Ruby.
                  \item Replaced inefficient and aging costly tool-set using Java and Netbeans.
-                 % Since Rhapsody is better known as a music service, you might want to
-                 % qualify it here with something like "IBM's Rhapsody UML tool"
-                 \item Worked on fault tolerant and system redundancy using Rhapsody.
+                 \item Worked on fault tolerant and system redundancy using IBM's Rhapsody UML tool.
+                 \item Introduced MediaWiki system which is now widely deployed throughout the company.
                  % Other potential items:
-                 % - Introduced MediaWiki system which is now widely deployed throughout
-                 %   the company
                  % - Prototyped development tool virtualization for team
                  \end{itemize}
 
@@ -48,7 +44,9 @@
                 Signaling Service Group SS7
                  \begin{itemize}  \itemsep -2pt % reduce space between items
                  \item Assisted in design and implementation of fault handling and system fail-over for Nortel's Signaling System 7 product line.
-                 \item Introduced "Double Choco Latte" for bug tracking. 
+                 \item Awarded a "Star Award" for the "Most software hooks ever seen east of the Mississippi". (The humorous award is tied to a "refactoring nightmare for the good of the product" story.)
+
+                 \item Introduced "Double Choco Latte" for bug tracking. This required forking the product and learning enough PHP to customize the tool for our issue tracking process.
                  \item ISO 9001 training and documentation team member.
                  \end{itemize}
                 
@@ -57,7 +55,7 @@
                 DMS-10
                  \begin{itemize}  \itemsep -2pt % reduce space between items
                  \item Designed and implemented ISDN display protocol using SL-1.
-                 \item Y2K bug fix.
+                 \item Y2K bug fixes.
                  \end{itemize}
 
 %                {\sl Conscripted child labor for "Medical Parents"} \hfill 1981 - 1986 \\
@@ -70,12 +68,12 @@
 
                 % regex might be worth mentioning as a langauge
 \section{COMPUTER SKILLS} {\sl Languages \& Software:} C/C++, Perl, Java,
-                Ruby, Clearcase, Git, GNU, Netbeans, Vim \\
+                Ruby, Clearcase, Git, GNU, Netbeans, PHP, Vim \\
                 {\sl Operating Systems:} Windows, Mac OS X, Unix, VxWorks \\ 
                 % If you really want to be buzword compliant, there are zillions more
                 % acronyms you could list here.  For example: IPv6, SSH, HTTP, SSL,
                 % FTP, TFTP, Telnet, SNMP/MIB, etc
-                {\sl Protocols:} DHCP, TCP/UDP, DOCSIS 2.0, DOCSIS 3.0
+                {\sl Protocols:} DHCP, DOCSIS 2.0, DOCSIS 3.0, FTP, HTTP, SNMP, SSH, TCP/UDP, Telnet, TFTP
 
 \section{EDUCATION} {\sl Bachelor of Science,} Computer Engineering \\
                     {\sl Bachelor of Science,} Electrical Engineering \\
@@ -84,11 +82,10 @@
                 President, Eta Kappa Nu, 1996 \\
 
 % This section doesn't feel like it belongs.  I would consider omitting it.
-\section{EXTRA-CURRICULAR ACTIVITIES}             
-             I am a 4th KYU (White) Belt Aikido (Aikido student). \\
-             Board and Video Game Geek. \\
-             Reading "Hacker News" and investigating different software development/test paradigm.
-
+% \section{EXTRA-CURRICULAR ACTIVITIES}             
+%              I am a 4th KYU (White) Belt Aikido (Aikido student). \\
+%              Board and Video Game Geek. \\
+%              Reading "Hacker News" and investigating different software development/test paradigm.
 \end{resume}
 \end{document}
 
